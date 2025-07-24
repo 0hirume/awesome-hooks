@@ -1,5 +1,6 @@
 {
     "name": "@rbxts/awesome-hooks",
+    "version": "0.0.1",
     "main": "out/init.lua",
     "author": "ohirume",
     "types": "out/index.d.ts",
